@@ -1,0 +1,21 @@
+.Pokedex-cards {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  margin: 1rem;
+}
+
+.Pokedex_title-win {
+  text-align: center;
+  color: green;
+}
+
+.Pokedex_title-loss {
+  text-align: center;
+  color: red;
+}
+
+.Pokedex-exp {
+  text-align: center;
+  font-weight: bold;
+}
